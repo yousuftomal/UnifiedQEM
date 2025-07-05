@@ -5,7 +5,7 @@ This repository provides a unified error mitigation framework for quantum circui
 ## Repository Structure
 
 ```
-├── e_m_u6.py               # Core implementation of EnhancedErrorMitigation class
+├── UnifyQEM.py               # Core implementation of EnhancedErrorMitigation class
 ├── verify_results.py       # Verification suite for benchmarking and assertions
 ├── debug_pec.py            # Script to profile PEC performance over multiple runs
 ├── requirements.txt        # Python dependencies
@@ -51,7 +51,7 @@ This repository provides a unified error mitigation framework for quantum circui
 Run the built-in Bell-state benchmark:
 
 ```bash
-python UnifyQEMpy
+python UnifyQEM.py
 ```
 
 This will output error reductions for Raw, GEM, ZNE, PF, and PEC methods, as well as the unified mitigation result with confidence intervals.
