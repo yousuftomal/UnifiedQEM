@@ -91,7 +91,7 @@ This prints the mean and standard deviation of PEC error reductions over 20 runs
 
 ## Contributing
 
-Contributions welcome! To add new features or improvements:
+Contributions welcome!
 
 
 ## License
