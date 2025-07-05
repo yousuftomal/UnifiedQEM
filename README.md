@@ -51,7 +51,7 @@ This repository provides a unified error mitigation framework for quantum circui
 Run the built-in Bell-state benchmark:
 
 ```bash
-python e_m_u6.py
+python UnifyQEMpy
 ```
 
 This will output error reductions for Raw, GEM, ZNE, PF, and PEC methods, as well as the unified mitigation result with confidence intervals.
