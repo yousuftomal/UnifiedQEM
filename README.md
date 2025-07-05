@@ -25,7 +25,7 @@ This repository provides a unified error mitigation framework for quantum circui
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/unified-error-mitigation.git
+   git clone https://github.com/yousuftomal/UnifiedQEM.git
    cd unified-error-mitigation
    ```
 
